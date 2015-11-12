@@ -1,0 +1,19 @@
+.container{
+  width: 75%;
+  margin: 0 auto;
+  height: 1000px;
+  font-family: Tahoma;
+  color: black;
+  background-color: rgba(255,255,255, 0.80);
+  padding: 1em;
+}
+
+.container h1 {
+  color: #121212;
+}
+
+.slide {
+  height: 40%;
+  width: 90%;
+  margin: 0 auto;
+}
